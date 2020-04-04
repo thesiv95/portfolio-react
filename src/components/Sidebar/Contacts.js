@@ -1,0 +1,32 @@
+import React from "react";
+
+export default class Contacts extends React.Component {
+    render() {
+        // noinspection SpellCheckingInspection
+        return (
+            <address className="contacts">
+                <div className="contacts-header">
+                    <span className="header-inner-text">Контакты</span>
+                </div>
+                <ul className="contacts-list">
+                    <li className="contacts-item contacts-item-mail">
+                        <a className="contacts-link" href={`mailto:${this.props.email}`}>
+                            <span className="contact-text">{this.props.email}</span>
+                        </a>
+                    </li>
+                    <li className="contacts-item contacts-item-phone">
+                        <a className="contacts-link" href={`tel:${this.props.phone}`}>
+                            <span className="contact-text">{this.props.phone}</span>
+                        </a>
+                    </li>
+                    <li className="contacts-item contacts-item-skype">
+                        <a className="contacts-link" href={`skype:${this.props.skype}`}>
+                            <span className="contact-text">{this.props.skype}</span>
+                        </a>
+                    </li>
+                </ul>
+            </address>
+        )
+    }
+}
+
