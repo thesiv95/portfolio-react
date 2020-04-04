@@ -3,6 +3,7 @@ import React from "react";
 export default class Contacts extends React.Component {
     render() {
         // noinspection SpellCheckingInspection
+
         return (
             <address className="contacts">
                 <div className="contacts-header">
@@ -15,8 +16,13 @@ export default class Contacts extends React.Component {
                         </a>
                     </li>
                     <li className="contacts-item contacts-item-phone">
-                        <a className="contacts-link" href={`tel:${this.props.phone}`}>
-                            <span className="contact-text">{this.props.phone}</span>
+                        <a className="contacts-link"
+                           href={`${this.props.haveWhatsApp 
+                               ? `https://wa.me/${this.props.phone.replace('+', '')}` 
+                               : `tel:${this.props.phone}`}`}>
+                            <span className="contact-text"
+                                  title={this.props.haveWhatsApp ? 'WhatsApp' : ''}
+                            >{this.props.phone}</span>
                         </a>
                     </li>
                     <li className="contacts-item contacts-item-skype">

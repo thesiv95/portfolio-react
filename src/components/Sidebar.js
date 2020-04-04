@@ -7,7 +7,7 @@ export default class Sidebar extends React.Component {
         return (
             <aside className="sidebar">
                 <Navigation/>
-                <Contacts email={'dj.active.17@gmail.com'} phone={'+972586516229'} skype={'soloveychik16'} />
+                <Contacts email={'dj.active.17@gmail.com'} phone={'+972586516229'} haveWhatsApp={true} skype={'soloveychik16'} />
             </aside>
         )
     }

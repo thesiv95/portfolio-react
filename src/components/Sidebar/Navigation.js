@@ -16,11 +16,6 @@ export default class Navigation extends React.Component {
                             Мои работы
                         </NavLink>
                     </li>
-                    <li className="navigation-item">
-                        <NavLink to={'/contacts-page'} className="navigation-link" activeClassName="current">
-                            Связаться со мной
-                        </NavLink>
-                    </li>
                 </ul>
             </nav>
         )
