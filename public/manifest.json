@@ -1,6 +1,6 @@
 {
-  "short_name": "Portfolio",
-  "name": "SIV's portfolio website from 2015 that is adapted to React",
+  "short_name": "portfolio",
+  "name": "@thesiv95's portfolio website from 2015 that is adapted to React",
   "icons": [
     {
       "src": "favicon.ico",
