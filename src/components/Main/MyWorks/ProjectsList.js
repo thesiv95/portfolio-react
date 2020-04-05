@@ -11,10 +11,10 @@ export default class ProjectsList extends React.Component {
                             <div className="hover-img">
                                 <img className="project-img" src={item.previewPicUrl} alt={item.siteDomain}/>
                                 <div className="zoom-wrapper">
-                                    <a href={`${item.https ? 'https' : 'http'}://${item.siteDomain}`} className="zoom-link" rel="noopener noreferrer" target="_blank">{item.siteDomain}</a>
+                                    <a href={`${item.https ? 'https' : 'http'}://${item.siteDomain}`} className="zoom-link" rel="noopener noreferrer" target="_blank">{item.siteName}</a>
                                 </div>
                             </div>
-                            <a href={`${item.https ? 'https' : 'http'}://${item.siteDomain}`} className="project-link" rel="noopener noreferrer" target="_blank">{item.siteDomain}</a>
+                            <a href={`${item.https ? 'https' : 'http'}://${item.siteDomain}`} className="project-link" rel="noopener noreferrer" target="_blank">{item.siteName}</a>
                             <div className="project-desc">
                                 {item.description}
                             </div>

@@ -1,0 +1,23 @@
+{
+  "0": {
+    "https": false,
+    "siteDomain": "masa-sababa.herokuapp.com",
+    "siteName": "SababaLife",
+    "previewPicUrl": "projects/Screenshot_4.png",
+    "description": "MASA Hi-Tech 2019/2020"
+  },
+  "1": {
+    "https": true,
+    "siteDomain": "github.com/thesiv95/ids-parser",
+    "siteName": "IDS-Parser",
+    "previewPicUrl": "https://camo.githubusercontent.com/6d291e6a9d48024daa44f5c2427f4f15fa3fa246/68747470733a2f2f692e696d6775722e636f6d2f3047544461624e2e706e67",
+    "description": "Diploma NSTU project"
+  },
+  "2": {
+    "https": true,
+    "siteDomain": "hru-matrix.herokuapp.com",
+    "siteName": "HRU matrix",
+    "previewPicUrl": "projects/hru.png",
+    "description": "Diploma NSTU project"
+  }
+}

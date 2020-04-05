@@ -4,7 +4,7 @@ export default class WorkExperience extends React.Component {
     render() {
         return (
             <section className="aboutbox">
-                <h2 className="aboutbox-header">Опыт работы</h2>
+                <h2 className="aboutbox-header">Work experience</h2>
                 <div className="aboutbox-body">
                     <ul className="aboutbox-list">
                         {

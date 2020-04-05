@@ -91,14 +91,6 @@ body {
     background: url(img/socials.png) no-repeat
 }
 
-.socials .socials-link.vk {
-    background-position: -2px -3px
-}
-
-.socials .socials-link.tw {
-    background-position: -71px -3px
-}
-
 .socials .socials-link.fb {
     background-position: -140px -3px
 }
@@ -211,16 +203,16 @@ body {
 }
 
 .contacts .contacts-item {
-    background: url(img/cont.png) 42px center no-repeat
+    background: url(img/cont.png) 42px center no-repeat;
 }
 
 .contacts .contacts-item-mail {
     background-color: #41b9d4;
-    background-position-y: 11px
+    background-position-y: 11px;
 }
 
 .contacts .contacts-item-phone {
-    background-color: #48cbe8
+    background-color: #48cbe8;
 }
 
 .contacts .contacts-item-skype {

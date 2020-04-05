@@ -7,10 +7,9 @@ export default class Education extends React.Component{
     };
 
     render() {
-        // aboutbox-item icon-{college}
         return (
             <section className="aboutbox">
-                <h2 className="aboutbox-header">Образование</h2>
+                <h2 className="aboutbox-header">Education</h2>
                 <div className="aboutbox-body">
                     <ul className="aboutbox-list">
                         {

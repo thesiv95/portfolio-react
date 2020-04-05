@@ -2,12 +2,10 @@ import React from "react";
 
 export default class Contacts extends React.Component {
     render() {
-        // noinspection SpellCheckingInspection
-
         return (
             <address className="contacts">
                 <div className="contacts-header">
-                    <span className="header-inner-text">Контакты</span>
+                    <span className="header-inner-text">Contacts</span>
                 </div>
                 <ul className="contacts-list">
                     <li className="contacts-item contacts-item-mail">

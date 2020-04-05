@@ -8,12 +8,12 @@ export default class Navigation extends React.Component {
                 <ul className="navigation-list">
                     <li className="navigation-item">
                         <NavLink to={'/'} exact className="navigation-link" activeClassName="current">
-                            Обо мне
+                            About me
                         </NavLink>
                     </li>
                     <li className="navigation-item">
                         <NavLink to={'/my-works'} className="navigation-link" activeClassName="current">
-                            Мои работы
+                            My works
                         </NavLink>
                     </li>
                 </ul>
