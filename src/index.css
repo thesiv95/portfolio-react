@@ -229,47 +229,6 @@ body {
     float: right
 }
 
-.page-footer {
-    background: #eff3f7 url(img/line.png) top center no-repeat;
-    font-family: fira_sanslight, sans-serif;
-    color: #4a545d
-}
-
-.page-footer .container {
-    padding-top: 23px;
-    position: relative
-}
-
-.page-footer .copyright {
-    margin: 0 180px;
-    padding-top: 7px;
-    text-align: center;
-    font-size: 13px
-}
-
-.page-footer .lock {
-    position: absolute;
-    top: 26px;
-    left: 20px
-}
-
-.lock .lock-inner {
-    display: block;
-    height: 40px;
-    font-family: fira_sansbook, sans-serif;
-    font-size: 16px;
-    line-height: 2.2;
-    color: #4a545d;
-    text-decoration: none;
-    background: url(img/lock-close.png) no-repeat;
-    padding-left: 24px
-}
-
-.lock .lock-inner:hover {
-    text-decoration: underline;
-    background: url(img/lock-open.png) no-repeat
-}
-
 .container {
     width: 960px;
     margin: 0 auto
@@ -776,22 +735,6 @@ textarea {
     font-size: 15px;
     margin: 5px 0;
     line-height: 1.2
-}
-
-.lt-ie9 .menu ul li {
-    border-bottom: none
-}
-
-.lt-ie9 .menu ul li.current {
-    margin-top: 0
-}
-
-.lt-ie9 .my-work .item .zoom-wrapper {
-    display: none
-}
-
-.lt-ie9 .my-work .item:hover .zoom-wrapper {
-    display: block
 }
 
 .add-new-item {
