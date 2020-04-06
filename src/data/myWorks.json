@@ -1,6 +1,6 @@
 {
   "0": {
-    "https": false,
+    "https": true,
     "siteDomain": "masa-sababa.herokuapp.com",
     "siteName": "SababaLife",
     "previewPicUrl": "projects/Screenshot_4.png",
@@ -18,6 +18,6 @@
     "siteDomain": "hru-matrix.herokuapp.com",
     "siteName": "HRU matrix",
     "previewPicUrl": "projects/hru.png",
-    "description": "Diploma NSTU project"
+    "description": "To help myself while I studied university"
   }
 }
