@@ -1,0 +1,138 @@
+@media (max-width: 1010px){
+    .aboutbox {
+        width: 620px
+    }
+    .image-wrap {
+        margin-left: 25px;
+    }
+
+    .page-header .header-logo-link {
+        left: 60px;
+    }
+}
+
+@media (max-width: 860px) {
+    .sidebar {
+        width: 935px;
+        margin-left: 15px;
+    }
+    .variable-content {
+        width: 970px;
+    }
+
+    .aboutbox {
+        width: 935px;
+    }
+
+    .aboutbox-item .where {
+        font-size: 20px;
+    }
+
+    .aboutbox-item .period {
+        font-size: 18px;
+    }
+
+    .aboutbox .aboutbox-header {
+        font-size: 45px;
+    }
+
+    .aboutbox-item .where {
+        font-size: 30px;
+    }
+
+    .aboutbox-item .period {
+        font-size: 30px;
+    }
+
+    .avatar-box {
+        width: 200px;
+        height: 200px;
+    }
+
+    .worksheet-list {
+        margin-left: -145px;
+    }
+
+    .projects-list .projects-item {
+        width: 220px;
+        height: 200px;
+    }
+
+    .page-header .header-logo-link {
+        font-size: 40px;
+    }
+
+    .projects-item .project-link {
+        font-size: 24px;
+    }
+
+    .projects-item .project-desc {
+        font-size: 20px;
+    }
+
+    .navigation .navigation-link {
+        font-size: 35px;
+    }
+
+    .contacts .header-inner-text, .contacts .contact-text {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 600px) {
+
+    .avatar-box {
+        width: 400px;
+        height: 400px;
+        margin-left: 250px;
+    }
+
+    .aboutbox .worksheet-wrap {
+        float: right;
+        width: 240px;
+        margin-top: 120px;
+    }
+
+    .worksheet-list {
+        margin-left: -510px;
+        margin-top: 330px;
+    }
+
+    .worksheet-what {
+        font-size: 38px;
+    }
+
+    .worksheet-info {
+        font-size: 40px;
+    }
+
+
+}
+
+@media (max-width: 480px) {
+    .contacts .header-inner-text, .contacts .contact-text {
+        font-size: 40px;
+    }
+
+    .navigation .navigation-link {
+        font-size: 45px;
+    }
+}
+
+@media print {
+    .navigation {
+        display: none;
+    }
+
+    .aboutbox-item .where {
+        font-size: 24px;
+    }
+
+    .aboutbox-item .period {
+        font-size: 22px;
+    }
+
+    .worksheet-what, .worksheet-info {
+        font-size: 18px;
+    }
+}
