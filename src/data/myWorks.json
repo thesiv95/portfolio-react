@@ -21,8 +21,8 @@
     "description": "To help myself while I studied at university"
   },
   "3": {
-    "https": false,
-    "siteDomain": "site.com",
+    "https": true,
+    "siteDomain": "comp-graphics.000webhostapp.com",
     "siteName": "Computer Graphics Book",
     "previewPicUrl": "projects/cgbook.png",
     "description": "Diploma college project about Computer Graphics and AutoCad"
