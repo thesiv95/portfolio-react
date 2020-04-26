@@ -22,7 +22,7 @@ export default class ProfileInfo extends React.Component {
                         age={'24'}
                         city={'Tel Aviv Area'}
                         country={'Israel'}
-                        speciality={'Junior FrontEnd Developer'}
+                        speciality={'Full-Stack Developer'}
                         skills={this.skills} />
                 <WorkExperience data={this.workExperience} />
                 <Education data={this.education} />
