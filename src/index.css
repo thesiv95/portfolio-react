@@ -313,508 +313,508 @@ body {
 
 .worksheet-info {
     float: left;
-    margin-left: 25px;
-    max-width: 260px
+    margin-left: 8px;
+    margin-top: 2px;
 }
 
 .worksheet-item {
-    margin-bottom: 8px
+margin-bottom: 8px
 }
 
 .worksheet-what {
-    font-family: fira_sansmedium, sans-serif;
-    font-size: 16px;
-    float: left
+font-family: fira_sansmedium, sans-serif;
+font-size: 16px;
+float: left
 }
 
 .worksheet-info {
-    font-family: fira_sansbook, sans-serif;
-    font-size: 14px;
-    overflow: hidden;
-    max-width: 218px
+font-family: fira_sansbook, sans-serif;
+font-size: 14px;
+overflow: hidden;
+max-width: 218px
 }
 
 .worksheet-info .skills-list {
-    width: 224px;
-    padding: 0;
-    list-style: none
+width: 224px;
+padding: 0;
+list-style: none
 }
 
 .skills-list .skill-item {
-    display: inline-block;
-    font-family: ProximaNovaCondensedSemibold, sans-serif;
-    background: #3ba8c0;
-    background: -moz-linear-gradient(top, #3ba8c0 0, #3ba8c0 49%, #2e8ca2 50%, #2e8ca2 99%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #3ba8c0), color-stop(49%, #3ba8c0), color-stop(50%, #2e8ca2), color-stop(99%, #2e8ca2));
-    background: -webkit-linear-gradient(top, #3ba8c0 0, #3ba8c0 49%, #2e8ca2 50%, #2e8ca2 99%);
-    background: -o-linear-gradient(top, #3ba8c0 0, #3ba8c0 49%, #2e8ca2 50%, #2e8ca2 99%);
-    background: -ms-linear-gradient(top, #3ba8c0 0, #3ba8c0 49%, #2e8ca2 50%, #2e8ca2 99%);
-    background: linear-gradient(to bottom, #3ba8c0 0, #3ba8c0 49%, #2e8ca2 50%, #2e8ca2 99%);
-    border-radius: 4px;
-    padding: 0 7px;
-    margin-right: 6px;
-    color: #fff;
-    line-height: 1.2;
-    min-width: 40px;
-    text-align: center
+display: inline-block;
+font-family: ProximaNovaCondensedSemibold, sans-serif;
+background: #3ba8c0;
+background: -moz-linear-gradient(top, #3ba8c0 0, #3ba8c0 49%, #2e8ca2 50%, #2e8ca2 99%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #3ba8c0), color-stop(49%, #3ba8c0), color-stop(50%, #2e8ca2), color-stop(99%, #2e8ca2));
+background: -webkit-linear-gradient(top, #3ba8c0 0, #3ba8c0 49%, #2e8ca2 50%, #2e8ca2 99%);
+background: -o-linear-gradient(top, #3ba8c0 0, #3ba8c0 49%, #2e8ca2 50%, #2e8ca2 99%);
+background: -ms-linear-gradient(top, #3ba8c0 0, #3ba8c0 49%, #2e8ca2 50%, #2e8ca2 99%);
+background: linear-gradient(to bottom, #3ba8c0 0, #3ba8c0 49%, #2e8ca2 50%, #2e8ca2 99%);
+border-radius: 4px;
+padding: 0 7px;
+margin-right: 6px;
+color: #fff;
+line-height: 1.2;
+min-width: 40px;
+text-align: center
 }
 
 .aboutbox .aboutbox-list {
-    list-style: none;
-    padding: 0 0 0 50px;
-    margin: 0
+list-style: none;
+padding: 0 0 0 50px;
+margin: 0
 }
 
 .aboutbox .aboutbox-item {
-    padding: 0 0 0 76px;
-    margin-bottom: 20px
+padding: 0 0 0 76px;
+margin-bottom: 20px
 }
 
 .aboutbox .aboutbox-item:last-child {
-    margin-bottom: 0
+margin-bottom: 0
 }
 
 .aboutbox-item .where {
-    font-family: fira_sansbook, sans-serif;
-    font-size: 16px
+font-family: fira_sansbook, sans-serif;
+font-size: 16px
 }
 
 .aboutbox-item .period {
-    font-family: fira_sanslight, sans-serif;
-    font-size: 15px;
-    line-height: 1
+font-family: fira_sanslight, sans-serif;
+font-size: 15px;
+line-height: 1
 }
 
 .aboutbox-item.icon-work {
-    background: url(img/portfel.png) 9px center no-repeat
+background: url(img/portfel.png) 9px center no-repeat
 }
 
 .aboutbox-item.icon-college {
-    background: url(img/college.png) 9px center no-repeat
+background: url(img/college.png) 9px center no-repeat
 }
 
 .aboutbox-item.icon-course {
-    background: url(img/course.png) 17px center no-repeat
+background: url(img/course.png) 17px center no-repeat
 }
 
 .header-big-wrap {
-    background: #48cbe8;
-    border-bottom: 17px solid #67dffa;
-    padding: 42px 20px 38px;
-    border-radius: 5px 5px 0 0;
-    text-align: center;
-    margin-bottom: 41px
+background: #48cbe8;
+border-bottom: 17px solid #67dffa;
+padding: 42px 20px 38px;
+border-radius: 5px 5px 0 0;
+text-align: center;
+margin-bottom: 41px
 }
 
 .aboutbox-header-big {
-    padding: 0;
-    margin: 0;
-    text-align: center;
-    height: 25px;
-    font-size: 27px;
-    font-family: fira_sansbook, sans-serif;
-    color: #fff;
-    font-weight: 400;
-    background-color: #48cbe8
+padding: 0;
+margin: 0;
+text-align: center;
+height: 25px;
+font-size: 27px;
+font-family: fira_sansbook, sans-serif;
+color: #fff;
+font-weight: 400;
+background-color: #48cbe8
 }
 
 .contact-form-wrap {
-    width: 405px;
-    margin: 0 auto;
-    padding-top: 20px
+width: 405px;
+margin: 0 auto;
+padding-top: 20px
 }
 
 .contact-form .textarea {
-    height: 182px
+height: 182px
 }
 
 .contact-form .form-line .form-group {
-    width: 48%
+width: 48%
 }
 
 .contact-form .captcha {
-    width: 48%
+width: 48%
 }
 
 .contact-form .captcha-wrap {
-    margin: 0 auto 31px
+margin: 0 auto 31px
 }
 
 .contact-form .input-captcha {
-    height: 32px;
-    width: 48%;
-    margin-top: 21px;
-    padding: 6px 12px
+height: 32px;
+width: 48%;
+margin-top: 21px;
+padding: 6px 12px
 }
 
 .contact-form .button-group button[type=reset] {
-    float: right
+float: right
 }
 
 .contact-form .captcha-wrap .label {
-    font-size: 16px
+font-size: 16px
 }
 
 button,
 input,
 textarea {
-    outline: 0
+outline: 0
 }
 
 .input,
 .textarea {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    font-size: 12px;
-    width: 100%;
-    padding: 12px 12px
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+font-size: 12px;
+width: 100%;
+padding: 12px 12px
 }
 
 .textarea {
-    resize: none
+resize: none
 }
 
 .form-group {
-    margin-bottom: 12px
+margin-bottom: 12px
 }
 
 .btn {
-    border-radius: 5px;
-    background-color: #48cbe8;
-    height: 33px;
-    border: solid #3ba8c0;
-    border-width: 0 0 2px 0;
-    color: #f6f6f6;
-    font-family: fira_sansbook, sans-serif;
-    font-size: 20px;
-    padding: 0 20px
+border-radius: 5px;
+background-color: #48cbe8;
+height: 33px;
+border: solid #3ba8c0;
+border-width: 0 0 2px 0;
+color: #f6f6f6;
+font-family: fira_sansbook, sans-serif;
+font-size: 20px;
+padding: 0 20px
 }
 
 .btn:active {
-    border-top: solid 2px #3ba8c0
+border-top: solid 2px #3ba8c0
 }
 
 .btn:hover {
-    border-bottom: none
+border-bottom: none
 }
 
 .btn-res {
-    background: #849db5;
-    border-color: #687b8f
+background: #849db5;
+border-color: #687b8f
 }
 
 .btn-res:active {
-    border-top: solid 2px #687b8f
+border-top: solid 2px #687b8f
 }
 
 .input {
-    display: block;
-    height: 41px;
-    color: #48cbe8;
-    background-color: #fff;
-    border: 1px solid #48cbe8;
-    border-radius: 4px;
-    outline: 0
+display: block;
+height: 41px;
+color: #48cbe8;
+background-color: #fff;
+border: 1px solid #48cbe8;
+border-radius: 4px;
+outline: 0
 }
 
 
 .label {
-    font-family: fira_sansbook, sans-serif;
-    color: #58697a;
-    font-size: 18px
+font-family: fira_sansbook, sans-serif;
+color: #58697a;
+font-size: 18px
 }
 
 .textarea {
-    display: block;
-    width: 100%;
-    height: 110px;
-    color: #48cbe8;
-    border: 1px solid #48cbe8;
-    border-radius: 4px
+display: block;
+width: 100%;
+height: 110px;
+color: #48cbe8;
+border: 1px solid #48cbe8;
+border-radius: 4px
 }
 
 .server-mes {
-    border-radius: 4px;
-    border: 1px solid;
-    font-size: 12px;
-    width: 100%;
-    padding: 6px 12px;
-    margin-bottom: 6px;
-    display: none;
-    box-sizing: border-box
+border-radius: 4px;
+border: 1px solid;
+font-size: 12px;
+width: 100%;
+padding: 6px 12px;
+margin-bottom: 6px;
+display: none;
+box-sizing: border-box
 }
 
 .error-mes {
-    background-color: #fad2d1;
-    border-color: #f97e76;
-    color: #f97e76
+background-color: #fad2d1;
+border-color: #f97e76;
+color: #f97e76
 }
 
 .success-mes {
-    background-color: #b8e1ce;
-    border-color: #49bb7b;
-    color: #49bb7b
+background-color: #b8e1ce;
+border-color: #49bb7b;
+color: #49bb7b
 }
 
 ::-webkit-input-placeholder {
-    color: #48cbe8
+color: #48cbe8
 }
 
 :-moz-placeholder {
-    color: #48cbe8
+color: #48cbe8
 }
 
 ::-moz-placeholder {
-    color: #48cbe8
+color: #48cbe8
 }
 
 :-ms-input-placeholder {
-    color: #48cbe8
+color: #48cbe8
 }
 
 .input::-webkit-input-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease
+opacity: 1;
+transition: opacity .3s ease
 }
 
 .input::-moz-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease
+opacity: 1;
+transition: opacity .3s ease
 }
 
 .input:-moz-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease
+opacity: 1;
+transition: opacity .3s ease
 }
 
 .input:-ms-input-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease
+opacity: 1;
+transition: opacity .3s ease
 }
 
 .input:focus::-webkit-input-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease
+opacity: 0;
+transition: opacity .3s ease
 }
 
 .input:focus::-moz-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease
+opacity: 0;
+transition: opacity .3s ease
 }
 
 .input:focus:-moz-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease
+opacity: 0;
+transition: opacity .3s ease
 }
 
 .input:focus:-ms-input-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease
+opacity: 0;
+transition: opacity .3s ease
 }
 
 .textarea::-webkit-input-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease
+opacity: 1;
+transition: opacity .3s ease
 }
 
 .textarea::-moz-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease
+opacity: 1;
+transition: opacity .3s ease
 }
 
 .textarea:-moz-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease
+opacity: 1;
+transition: opacity .3s ease
 }
 
 .textarea:-ms-input-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease
+opacity: 1;
+transition: opacity .3s ease
 }
 
 .textarea:focus::-webkit-input-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease
+opacity: 0;
+transition: opacity .3s ease
 }
 
 .textarea:focus::-moz-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease
+opacity: 0;
+transition: opacity .3s ease
 }
 
 .textarea:focus:-moz-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease
+opacity: 0;
+transition: opacity .3s ease
 }
 
 .textarea:focus:-ms-input-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease
+opacity: 0;
+transition: opacity .3s ease
 }
 
 .projects-wrapper {
-    margin: 0 20px
+margin: 0 20px
 }
 
 .projects-wrapper .projects-list {
-    padding: 0;
-    margin: 0 0 0 -25px
+padding: 0;
+margin: 0 0 0 -25px
 }
 
 .projects-list .projects-item {
-    width: 183px;
-    display: inline-block;
-    vertical-align: top;
-    text-align: center;
-    position: relative;
-    margin-bottom: 38px;
-    margin-left: 25px
+width: 183px;
+display: inline-block;
+vertical-align: top;
+text-align: center;
+position: relative;
+margin-bottom: 38px;
+margin-left: 25px
 }
 
 .projects-item .hover-img {
-    width: 100%;
-    height: 129px;
-    border-radius: 4px;
-    margin-bottom: 3px
+width: 100%;
+height: 129px;
+border-radius: 4px;
+margin-bottom: 3px
 }
 
 .projects-item .project-img {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    width: 100%;
-    height: 100%;
-    border: 2px solid #3ba8c0;
-    border-radius: 4px
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+width: 100%;
+height: 100%;
+border: 2px solid #3ba8c0;
+border-radius: 4px
 }
 
 .projects-item:hover .project-img {
-    -moz-opacity: .2;
-    opacity: .2
+-moz-opacity: .2;
+opacity: .2
 }
 
 .projects-item:hover .hover-img {
-    background-color: #016ca4
+background-color: #016ca4
 }
 
 .projects-item .zoom-wrapper {
-    position: absolute;
-    width: 100%;
-    top: 55px;
-    text-align: center;
-    transform: scale(0);
-    -webkit-transform: scale(0);
-    transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out
+position: absolute;
+width: 100%;
+top: 55px;
+text-align: center;
+transform: scale(0);
+-webkit-transform: scale(0);
+transition: all .5s ease-in-out;
+-webkit-transition: all .5s ease-in-out
 }
 
 .projects-item .zoom-link {
-    font-family: fira_sansbook, sans-serif;
-    font-size: 12px;
-    border: solid 3px #eff3f7;
-    color: #eff3f7;
-    text-decoration: none;
-    border-radius: 5px;
-    padding: 0 4px
+font-family: fira_sansbook, sans-serif;
+font-size: 12px;
+border: solid 3px #eff3f7;
+color: #eff3f7;
+text-decoration: none;
+border-radius: 5px;
+padding: 0 4px
 }
 
 .projects-item:hover .zoom-wrapper {
-    transform: scale(1);
-    -webkit-transform: scale(1)
+transform: scale(1);
+-webkit-transform: scale(1)
 }
 
 .projects-item .project-link {
-    color: #3ba8c0;
-    font-family: fira_sanslight_italic, sans-serif;
-    font-size: 13px;
-    text-decoration: none
+color: #3ba8c0;
+font-family: fira_sanslight_italic, sans-serif;
+font-size: 13px;
+text-decoration: none
 }
 
 .projects-item .project-desc {
-    font-size: 15px;
-    margin: 5px 0;
-    line-height: 1.2
+font-size: 15px;
+margin: 5px 0;
+line-height: 1.2
 }
 
 .add-new-item {
-    border: dashed 1px #3ba8c0;
-    border-radius: 4px;
-    height: 128px;
-    text-decoration: none
+border: dashed 1px #3ba8c0;
+border-radius: 4px;
+height: 128px;
+text-decoration: none
 }
 
 .add-new-item .add-new-link {
-    background: url(img/add-new.png) center 33px no-repeat;
-    display: block;
-    height: 100%;
-    text-decoration: none;
-    color: #3ba8c0;
-    font-size: 13px
+background: url(img/add-new.png) center 33px no-repeat;
+display: block;
+height: 100%;
+text-decoration: none;
+color: #3ba8c0;
+font-size: 13px
 }
 
 .add-new-item .add-new-text {
-    position: absolute;
-    padding-top: 76px;
-    text-align: center;
-    width: 100%
+position: absolute;
+padding-top: 76px;
+text-align: center;
+width: 100%
 }
 
 .add-new-item .add-new-link:hover {
-    text-decoration: underline
+text-decoration: underline
 }
 
 @-webkit-keyframes moveFromBottom {
-    from {
-        -webkit-transform: translateY(200%);
-        opacity: 0
-    }
-    to {
-        -webkit-transform: translateY(0) scale(1);
-        opacity: 1
-    }
+from {
+    -webkit-transform: translateY(200%);
+    opacity: 0
+}
+to {
+    -webkit-transform: translateY(0) scale(1);
+    opacity: 1
+}
 }
 
 @-moz-keyframes moveFromBottom {
-    from {
-        -moz-transform: translateY(200%);
-        opacity: 0
-    }
-    to {
-        -moz-transform: translateY(0);
-        opacity: 1
-    }
+from {
+    -moz-transform: translateY(200%);
+    opacity: 0
+}
+to {
+    -moz-transform: translateY(0);
+    opacity: 1
+}
 }
 
 @-ms-keyframes moveFromBottom {
-    from {
-        -ms-transform: translateY(200%);
-        opacity: 0
-    }
-    to {
-        -ms-transform: translateY(0);
-        opacity: 1
-    }
+from {
+    -ms-transform: translateY(200%);
+    opacity: 0
+}
+to {
+    -ms-transform: translateY(0);
+    opacity: 1
+}
 }
 
 @-o-keyframes moveFromBottom {
-    from {
-        -o-transform: translateY(200%);
-        opacity: 0
-    }
-    to {
-        -o-transform: translateY(0);
-        opacity: 1
-    }
+from {
+    -o-transform: translateY(200%);
+    opacity: 0
+}
+to {
+    -o-transform: translateY(0);
+    opacity: 1
+}
 }
 
 @keyframes moveFromBottom {
-    from {
-        transform: translateY(200%);
-        opacity: 0
-    }
-    to {
-        transform: translateY(0);
-        opacity: 1
-    }
+from {
+    transform: translateY(200%);
+    opacity: 0
+}
+to {
+    transform: translateY(0);
+    opacity: 1
+}
 }
