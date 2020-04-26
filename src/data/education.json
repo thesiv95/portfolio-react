@@ -5,29 +5,9 @@
     "type": "college"
   },
   "1": {
-    "where": "Novosibirsk State University of Economic and Management",
-    "period": "2015 - 2018",
-    "type": "college"
-  },
-  "2": {
     "where": "Novosibirsk State Technical University",
-    "period": "2018 - 2019",
+    "period": "2015 - 2019",
     "type": "college"
-  },
-  "3": {
-    "where": "APTECH",
-    "period": "2013-2014",
-    "type": "course"
-  },
-  "4": {
-    "where": "Loftschool courses",
-    "period": "2015-2016",
-    "type": "course"
-  },
-  "5": {
-    "where": "MASA Hi-Tech",
-    "period": "2019-2020",
-    "type": "MASA"
   }
 }
 

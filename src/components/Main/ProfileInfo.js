@@ -16,17 +16,17 @@ export default class ProfileInfo extends React.Component {
 
     render() {
         return (
-            <>
+            <React.Fragment>
                 <Person imgSrc={'https://sun9-60.userapi.com/c638722/v638722958/72702/bGCjuY35JLM.jpg'}
                         name={'Ilya Soloveychik'}
                         age={'24'}
-                        city={'Ashkelon'}
+                        city={'Tel Aviv Area'}
                         country={'Israel'}
                         speciality={'Junior FrontEnd Developer'}
                         skills={this.skills} />
                 <WorkExperience data={this.workExperience} />
                 <Education data={this.education} />
-            </>
+            </React.Fragment>
         )
     }
 }
