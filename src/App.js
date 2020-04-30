@@ -9,7 +9,7 @@ import './mediaqueries.css';
 function App() {
   return (
         <div className="main-content">
-          <Header fbUser={'thesiv95'} ghUser={'thesiv95'} />
+          <Header githubUser={'thesiv95'} />
           <div className="container">
             <Sidebar/>
             <Main/>

@@ -7,14 +7,11 @@ export default class Header extends React.Component {
             <header className="page-header">
                 <div className="container-big">
                     <Link to="/" className="header-logo-link">
-                        Portfolio Website
+                        @thesiv95 portfolio website
                     </Link>
                     <ul className="socials">
                         <li className="socials-item">
-                            <a href={`https://facebook.com/${this.props.fbUser}`} target="_blank" rel="noopener noreferrer" className="socials-link fb">Facebook</a>
-                        </li>
-                        <li className="socials-item">
-                            <a href={`https://github.com/${this.props.ghUser}`} target="_blank" rel="noopener noreferrer" className="socials-link gt">Github</a>
+                            <a href={`https://github.com/${this.props.githubUser}`} target="_blank" rel="noopener noreferrer" className="socials-link gt">Github</a>
                         </li>
                     </ul>
                 </div>
