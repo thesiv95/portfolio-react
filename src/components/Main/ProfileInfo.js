@@ -20,7 +20,7 @@ export default class ProfileInfo extends React.Component {
                 <Person imgSrc={'https://media-exp1.licdn.com/dms/image/C5603AQGonh6Dum33_A/profile-displayphoto-shrink_200_200/0?e=1593648000&v=beta&t=qpBBQdzJ4kAfqw0RWvpWwEqW_RCOnnmXLHlIcwrYD-A'}
                         name={'Ilya Soloveychik'}
                         age={'24'}
-                        city={'Tel Aviv Area'}
+                        region={'Tel Aviv Area'}
                         country={'Israel'}
                         speciality={'Full-Stack JavaScript Developer'}
                         skills={this.skills} />
