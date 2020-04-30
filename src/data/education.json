@@ -1,12 +1,13 @@
 {
+
   "0": {
-    "where": "Novosibirsk State University of Economics and Management (NSUEM) Business-College",
-    "period": "2011 - 2015",
+    "where": "Novosibirsk State Technical University",
+    "period": "2015 - 2019",
     "type": "college"
   },
   "1": {
-    "where": "Novosibirsk State Technical University",
-    "period": "2015 - 2019",
+    "where": "Novosibirsk State University of Economics and Management (NSUEM) Business-College",
+    "period": "2011 - 2015",
     "type": "college"
   }
 }
