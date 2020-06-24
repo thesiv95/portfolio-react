@@ -26,5 +26,12 @@
     "siteName": "Computer Graphics Book",
     "previewPicUrl": "projects/cgbook.png",
     "description": "Diploma college project about Computer Graphics and AutoCad"
-  }
+  },
+  "4": {
+    "https": true,
+    "siteDomain": "thesiv95.github.io",
+    "siteName": "UK Driver License Generator",
+    "previewPicUrl": "projects/generator.png",
+    "description": "Simple vanilla JS app based on CodeWars task"
+  },
 }
