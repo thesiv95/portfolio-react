@@ -33,5 +33,5 @@
     "siteName": "UK Driver License Generator",
     "previewPicUrl": "projects/generator.png",
     "description": "Simple vanilla JS app based on CodeWars task"
-  },
+  }
 }
