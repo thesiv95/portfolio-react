@@ -29,9 +29,9 @@
   },
   "4": {
     "https": true,
-    "siteDomain": "thesiv95.github.io",
+    "siteDomain": "sheltered-bastion-02029.herokuapp.com",
     "siteName": "UK Driver License Generator",
     "previewPicUrl": "projects/generator.png",
-    "description": "Simple vanilla JS app based on CodeWars task"
+    "description": "Simple JS+ejs+express app based on CodeWars task"
   }
 }
