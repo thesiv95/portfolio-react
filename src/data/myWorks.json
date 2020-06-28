@@ -33,5 +33,12 @@
     "siteName": "UK Driver License Generator",
     "previewPicUrl": "projects/generator.png",
     "description": "Simple JS+ejs+express app based on CodeWars task"
+  },
+  "5": {
+    "https": true,
+    "siteDomain": "github.com/thesiv95/shift-buro",
+    "siteName": "Bureau of Good things",
+    "previewPicUrl": "projects/bureau.png",
+    "description": "Project for a computer school (I did Java backend)"
   }
 }
