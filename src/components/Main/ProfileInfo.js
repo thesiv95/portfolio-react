@@ -17,7 +17,7 @@ export default class ProfileInfo extends React.Component {
     render() {
         return (
             <React.Fragment>
-                <Person imgSrc={'https://media-exp1.licdn.com/dms/image/C5603AQGonh6Dum33_A/profile-displayphoto-shrink_200_200/0?e=1593648000&v=beta&t=qpBBQdzJ4kAfqw0RWvpWwEqW_RCOnnmXLHlIcwrYD-A'}
+                <Person imgSrc={'misc/userpic.png'}
                         name={'Ilya Soloveychik'}
                         age={'24'}
                         region={'Tel Aviv Area'}
