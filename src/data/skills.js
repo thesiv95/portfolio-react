@@ -7,6 +7,7 @@ export default [
     'Python',
     'React.js',
     'Node.js',
+    'TypeScript',
     'JQuery',
     'Bootstrap',
     'Sass',

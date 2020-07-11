@@ -40,5 +40,12 @@
     "siteName": "Bureau of Good things",
     "previewPicUrl": "projects/bureau.png",
     "description": "Project for a computer school (I did Java backend)"
+  },
+  "6": {
+    "https": true,
+    "siteDomain": "github.com/thesiv95/Ilya-Soloveychik-10-07-2020",
+    "siteName": "PropIt ToDo List",
+    "previewPicUrl": "projects/propit.png",
+    "description": "Test task for PropIt company"
   }
 }
