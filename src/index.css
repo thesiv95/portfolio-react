@@ -84,11 +84,9 @@ body {
 }
 
 .socials .socials-link {
-    display: block;
     height: 100%;
     width: 100%;
     text-indent: -9999px;
-    background: url(img/socials.png) no-repeat;
 }
 
 .socials .socials-link.gt {
@@ -393,6 +391,16 @@ body {
     background: url(img/course.png) 17px center no-repeat;
 }
 
+.icon-link, .icon-link:visited {
+    margin-left: 30px;
+    color: #4a545d;
+    text-decoration: none;
+}
+
+.icon-link:hover, .icon-link:focus {
+    text-decoration: underline;
+}
+
 .header-big-wrap {
     background: #48cbe8;
     border-bottom: 17px solid #67dffa;
@@ -530,123 +538,8 @@ textarea {
     border-radius: 4px;
 }
 
-.server-mes {
-    border-radius: 4px;
-    border: 1px solid;
-    font-size: 12px;
-    width: 100%;
-    padding: 6px 12px;
-    margin-bottom: 6px;
-    display: none;
-    box-sizing: border-box;
-}
-
-.error-mes {
-    background-color: #fad2d1;
-    border-color: #f97e76;
-    color: #f97e76;
-}
-
-.success-mes {
-    background-color: #b8e1ce;
-    border-color: #49bb7b;
-    color: #49bb7b;
-}
-
-::-webkit-input-placeholder {
-    color: #48cbe8;
-}
-
-:-moz-placeholder {
-    color: #48cbe8;
-}
-
-::-moz-placeholder {
-    color: #48cbe8;
-}
-
-:-ms-input-placeholder {
-    color: #48cbe8;
-}
-
-.input::-webkit-input-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease;
-}
-
-.input::-moz-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease;
-}
-
-.input:-moz-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease;
-}
-
-.input:-ms-input-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease;
-}
-
-.input:focus::-webkit-input-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease;
-}
-
-.input:focus::-moz-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease;
-}
-
-.input:focus:-moz-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease;
-}
-
-.input:focus:-ms-input-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease;
-}
-
-.textarea::-webkit-input-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease;
-}
-
-.textarea::-moz-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease;
-}
-
-.textarea:-moz-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease;
-}
-
-.textarea:-ms-input-placeholder {
-    opacity: 1;
-    transition: opacity .3s ease;
-}
-
-.textarea:focus::-webkit-input-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease;
-}
-
-.textarea:focus::-moz-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease;
-}
-
-.textarea:focus:-moz-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease;
-}
-
-.textarea:focus:-ms-input-placeholder {
-    opacity: 0;
-    transition: opacity .3s ease;
+.header-icon-link {
+    width: 120%;
 }
 
 .projects-wrapper {

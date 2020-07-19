@@ -13,6 +13,9 @@ function App() {
           <div className="container">
             <Sidebar/>
             <Main/>
+            <div>
+                <a target="_blank" rel="noopener noreferrer" className="icon-link" href="https://icons8.com/icon/47745/website">Website icon by Icons8</a>
+            </div>
           </div>
         </div>
   );

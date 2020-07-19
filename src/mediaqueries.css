@@ -12,6 +12,7 @@
 }
 
 @media (max-width: 860px) {
+
     .sidebar {
         width: 935px;
         margin-left: 15px;
@@ -80,6 +81,7 @@
 }
 
 @media (max-width: 600px) {
+
 
     .avatar-box {
         width: 400px;
