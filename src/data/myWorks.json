@@ -50,7 +50,7 @@
   },
   "7": {
     "https": true,
-    "siteDomain": "github.com/thesiv95/password-generator",
+    "siteDomain": "passgen2.herokuapp.com",
     "siteName": "Strong Password Generator",
     "previewPicUrl": "projects/passwordgen.png",
     "description": "Just another Pet Project :)"
