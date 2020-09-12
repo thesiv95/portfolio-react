@@ -47,5 +47,12 @@
     "siteName": "PropIt ToDo List",
     "previewPicUrl": "projects/propit.png",
     "description": "Test task for PropIt company"
+  },
+  "7": {
+    "https": true,
+    "siteDomain": "github.com/thesiv95/password-generator",
+    "siteName": "Strong Password Generator",
+    "previewPicUrl": "projects/passwordgen.png",
+    "description": "Just another Pet Project :)"
   }
 }
