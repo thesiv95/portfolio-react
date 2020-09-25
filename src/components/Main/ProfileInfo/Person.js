@@ -19,10 +19,6 @@ export default class Person extends React.Component {
                                 <div className="worksheet-info">{this.props.name}</div>
                             </li>
                             <li className="worksheet-item clearfix">
-                                <div className="worksheet-what">My age:</div>
-                                <div className="worksheet-info">{this.props.age} years</div>
-                            </li>
-                            <li className="worksheet-item clearfix">
                                 <div className="worksheet-what">My region:</div>
                                 <div className="worksheet-info">{this.props.region}, {this.props.country}</div>
                             </li>
