@@ -19,7 +19,7 @@ export default [
     //'WordPress',
     'Git',
     //'WebStorm',
-    'Visual Studio Code',
+    'VSCode',
     //'Sublime Text 2',
     //'Notepad++',
     //'Adobe Dreamweaver',
