@@ -54,5 +54,12 @@
     "siteName": "Strong Password Generator",
     "previewPicUrl": "projects/passwordgen.png",
     "description": "Just another Pet Project :)"
+  },
+  "8":{
+    "https": true,
+    "siteDomain": "",
+    "siteName": "URL Parser",
+    "previewPicUrl": "https://cdn1.iconfinder.com/data/icons/web-programming-misc/80/web-browser-search-seo-parser-Parsing-syntax_analysis-512.png",
+    "description": "Shows all css & js files or code of the webpage"
   }
 }
