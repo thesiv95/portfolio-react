@@ -57,9 +57,9 @@
   },
   "8":{
     "https": true,
-    "siteDomain": "",
+    "siteDomain": "dry-bayou-92565.herokuapp.com",
     "siteName": "URL Parser",
-    "previewPicUrl": "https://cdn1.iconfinder.com/data/icons/web-programming-misc/80/web-browser-search-seo-parser-Parsing-syntax_analysis-512.png",
+    "previewPicUrl": "projects/website-parser.png",
     "description": "Shows all css & js files or code of the webpage"
   }
 }
