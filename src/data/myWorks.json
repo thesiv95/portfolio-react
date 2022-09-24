@@ -1,65 +1,9 @@
-{
-  "0": {
+[
+  {
     "https": true,
-    "siteDomain": "masa-sababa.herokuapp.com",
-    "siteName": "SababaLife",
+    "siteDomain": "google.com",
+    "siteName": "Test name",
     "previewPicUrl": "projects/sababalife.png",
-    "description": "Project for Inetex Ltd"
-  },
-  "1": {
-    "https": true,
-    "siteDomain": "github.com/thesiv95/ids-parser",
-    "siteName": "IDS-Parser",
-    "previewPicUrl": "projects/ids-parser.png",
-    "description": "Diploma NSTU project"
-  },
-  "2": {
-    "https": true,
-    "siteDomain": "hru-matrix.herokuapp.com",
-    "siteName": "HRU matrix",
-    "previewPicUrl": "projects/hru.png",
-    "description": "To help myself while I studied at university"
-  },
-  "3": {
-    "https": true,
-    "siteDomain": "comp-graphics.000webhostapp.com",
-    "siteName": "Computer Graphics Book",
-    "previewPicUrl": "projects/cgbook.png",
-    "description": "Diploma college project about Computer Graphics and AutoCad"
-  },
-  "4": {
-    "https": true,
-    "siteDomain": "sheltered-bastion-02029.herokuapp.com",
-    "siteName": "UK Driver License Generator",
-    "previewPicUrl": "projects/generator.png",
-    "description": "Simple JS+ejs+express app based on CodeWars task"
-  },
-  "5": {
-    "https": true,
-    "siteDomain": "github.com/thesiv95/shift-buro",
-    "siteName": "Bureau of Good things",
-    "previewPicUrl": "projects/bureau.png",
-    "description": "Project for a computer school (I did Java backend)"
-  },
-  "6": {
-    "https": true,
-    "siteDomain": "github.com/thesiv95/Ilya-Soloveychik-10-07-2020",
-    "siteName": "PropIt ToDo List",
-    "previewPicUrl": "projects/propit.png",
-    "description": "Test task for PropIt company"
-  },
-  "7": {
-    "https": true,
-    "siteDomain": "passgen2.herokuapp.com",
-    "siteName": "Strong Password Generator",
-    "previewPicUrl": "projects/passwordgen.png",
-    "description": "Just another Pet Project :)"
-  },
-  "8":{
-    "https": true,
-    "siteDomain": "dry-bayou-92565.herokuapp.com",
-    "siteName": "URL Parser",
-    "previewPicUrl": "projects/website-parser.png",
-    "description": "Shows all css & js files or code of the webpage"
+    "description": "Test description"
   }
-}
+]

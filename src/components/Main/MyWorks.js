@@ -5,7 +5,7 @@ import data from "../../data/myWorks";
 
 export default class MyWorks extends React.Component {
 
-    works = Object.values(data);
+    works = data;
 
     render() {
         return (

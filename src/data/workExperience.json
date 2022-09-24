@@ -1,14 +1,14 @@
-{
-  "0": {
+[
+  {
     "where": "Inetex Computing Solutions Ltd. (Rehovot, Israel)",
     "period": "2019 - present"
   },
-  "1": {
-    "where": "Ice Rock Development (Novosibirsk, Russia)",
-    "period": "2017 - 2019"
+  {
+    "where": "xManna (Raanana, Israel)",
+    "period": "2021"
   },
-  "2": {
-    "where": "Gidrotechnika JSC (Novosibirsk, Russia)",
-    "period": "2017"
+  {
+    "where": "INX Ltd. (Herzliya, Israel)",
+    "period": "2021 - present"
   }
-}
+]

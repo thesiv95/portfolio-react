@@ -10,9 +10,9 @@ import educationData from "../../data/education";
 export default class ProfileInfo extends React.Component {
 
     skills = skillsData;
-    workExperience = Object.values(workExperienceData);
+    workExperience = workExperienceData;
     // education 'type' property can be 'college' or 'course' ('course' by default)
-    education = Object.values(educationData);
+    education = educationData;
 
     render() {
         return (
@@ -21,7 +21,7 @@ export default class ProfileInfo extends React.Component {
                         name={'Ilya Soloveychik'}
                         region={'Tel Aviv Area'}
                         country={'Israel'}
-                        speciality={'Full-Stack Web Developer'}
+                        speciality={'Backend Developer'}
                         skills={this.skills} />
                 <WorkExperience data={this.workExperience} />
                 <Education data={this.education} />
