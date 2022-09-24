@@ -209,11 +209,6 @@ body {
     background-color: #48cbe8;
 }
 
-.contacts .contacts-item-skype {
-    background-color: #51daf8;
-    background-position-y: -127px;
-}
-
 .contacts .contact-text:hover {
     border-bottom: 1px solid #fff;
 }

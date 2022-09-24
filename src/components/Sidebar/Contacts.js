@@ -23,11 +23,6 @@ export default class Contacts extends React.Component {
                             >{this.props.phone}</span>
                         </a>
                     </li>
-                    <li className="contacts-item contacts-item-skype">
-                        <a className="contacts-link" href={`skype:${this.props.skype}`}>
-                            <span className="contact-text">{this.props.skype}</span>
-                        </a>
-                    </li>
                 </ul>
             </address>
         )
