@@ -1,14 +1,9 @@
 [
   {
-    "siteDomain": "https://elasticbeanstalk-eu-central-1-974181870705.s3.eu-central-1.amazonaws.com/sababot-discord.png",
-    "siteName": "Sababot",
-    "previewPicFile": "sababot-discord.png",
-    "description": "Discord bot for Sababushka Hebrew speaking club"
-  },
-  {
-    "siteDomain": "https://elasticbeanstalk-eu-central-1-974181870705.s3.eu-central-1.amazonaws.com/sababot-admin-fe.png",
-    "siteName": "Sababot Admin",
-    "previewPicFile": "sababot-admin-fe.png",
-    "description": "Admin control panel for Sababot in Vue.js"
+    "https": true,
+    "siteDomain": "google.com",
+    "siteName": "Test name",
+    "previewPicUrl": "projects/sababalife.png",
+    "description": "Test description"
   }
 ]
