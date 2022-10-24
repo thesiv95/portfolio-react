@@ -1,9 +1,9 @@
 [
   {
     "https": true,
-    "siteDomain": "google.com",
-    "siteName": "Test name",
-    "previewPicUrl": "projects/sababalife.png",
-    "description": "Test description"
+    "siteDomain": "https://discord.gg/ZP4sTyysDE",
+    "siteName": "Sababushka Discord Bot",
+    "previewPicUrl": "projects/discord-bot.png",
+    "description": "Dictionary and learn reminder inside Discord channel for Hebrew-speaking club"
   }
 ]

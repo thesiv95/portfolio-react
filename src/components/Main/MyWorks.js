@@ -10,7 +10,7 @@ export default class MyWorks extends React.Component {
     render() {
         return (
             <section className="aboutbox">
-                <div className="aboutbox-header">My works</div>
+                <div className="aboutbox-header">My works (Pet projects or projects besides main work activity)</div>
                 <div className="aboutbox-body clearfix">
                     <div className="projects-wrapper">
                         <ProjectsList data={this.works} />
