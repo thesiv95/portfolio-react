@@ -16,7 +16,7 @@ export default class Education extends React.Component{
                             // If this is wrong type - we will load course icon
                             this.props.data.map((item, index) =>
                                 <li key={index}
-                                    className={`aboutbox-item icon-${!this.itemTypeIsCorrect ? item.type : 'course'}`}>
+                                    className={`aboutbox-item icon-${this.itemTypeIsCorrect ? item.type : 'course'}`}>
                                     <div className="where">{item.where}</div>
                                     <div className="period">{item.period}</div>
                                 </li>
