@@ -1,9 +1,14 @@
 [
   {
-    "https": true,
     "siteDomain": "https://discord.gg/ZP4sTyysDE",
     "siteName": "Sababushka Discord Bot",
     "previewPicUrl": "projects/discord-bot.png",
     "description": "Dictionary and learn reminder inside Discord channel for Hebrew-speaking club"
+  },
+  {
+    "siteDomain": "https://t.me/ecoisrael22_bot",
+    "siteName": "Lizrok Nahon Telegram Bot",
+    "previewPicUrl": "projects/lizrok-tg-bot.png",
+    "description": "Bot that shows the relevant recycle place for a specific item by keyword"
   }
 ]
