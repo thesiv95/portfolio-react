@@ -1,3 +1,5 @@
+[Original github logo](https://github.com/logos) is used.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -8,6 +8,7 @@ export default class Sidebar extends React.Component {
             <aside className="sidebar">
                 <Navigation/>
                 <Contacts email={'thesiv95.work@gmail.com'}
+                          github={'https://github.com/thesiv95'}
                           phone={'+972586516229'}
                           haveWhatsApp={true} />
             </aside>

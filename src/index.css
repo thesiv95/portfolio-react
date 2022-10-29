@@ -205,6 +205,11 @@ body {
     background-position-y: 11px;
 }
 
+.contacts .contacts-item-github {
+    background-color: #3094ab;
+    background: url(img/GitHub-Mark-32px.png) 42px center no-repeat;
+}
+
 .contacts .contacts-item-phone {
     background-color: #48cbe8;
 }
