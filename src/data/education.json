@@ -18,6 +18,11 @@
     "where": "MongoDB University",
     "period": "2022",
     "type": "course"
+  },
+  {
+    "where": "Node.js Design patterns (LinkedIn)",
+    "period": "2022",
+    "type": "course"
   }
 ]
 
