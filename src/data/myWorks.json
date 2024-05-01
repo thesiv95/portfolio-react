@@ -10,11 +10,5 @@
     "siteName": "Lizrok Nahon Telegram Bot",
     "previewPicUrl": "projects/lizrok-tg-bot.png",
     "description": "Bot that shows the relevant recycle place for a specific item by keyword"
-  },
-  {
-    "siteDomain": "https://t.me/jobssearch22_bot",
-    "siteName": "Job Search Telegram Bot",
-    "previewPicUrl": "projects/adzuna.png",
-    "description": "Bot that shows the relevant jobs using Adzuna API"
   }
 ]
