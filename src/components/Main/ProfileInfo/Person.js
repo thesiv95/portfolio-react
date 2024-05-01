@@ -19,13 +19,9 @@ export default class Person extends React.Component {
                                 <div className="worksheet-info">{this.props.name}</div>
                             </li>
                             <li className="worksheet-item clearfix">
-                                <div className="worksheet-what">My region:</div>
-                                <div className="worksheet-info">{this.props.region}, {this.props.country}</div>
-                            </li>
-                            <li className="worksheet-item clearfix">
                                 <div className="worksheet-what">Мy specialisation:</div>
                                 <div className="worksheet-info">
-                                    {this.props.speciality ? this.props.speciality : 'FRONTEND developer'}
+                                    {this.props.speciality}
                                 </div>
                             </li>
                             <li className="worksheet-item clearfix">
