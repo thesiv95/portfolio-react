@@ -19,7 +19,7 @@ export default class ProfileInfo extends React.Component {
             <React.Fragment>
                 <Person imgSrc={'misc/userpic.png'}
                         name={'Ilya Soloveychik'}
-                        speciality={'Backend Developer'}
+                        speciality={'FullStack (Backend-oriented) Developer'}
                         skills={this.skills} />
                 <WorkExperience data={this.workExperience} />
                 <Education data={this.education} />
