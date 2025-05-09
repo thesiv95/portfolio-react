@@ -2,27 +2,49 @@ import React from "react";
 import Person from "./ProfileInfo/Person";
 import WorkExperience from "./ProfileInfo/WorkExperience";
 import Education from "./ProfileInfo/Education";
-// data files
-import skillsData from "../../data/skills";
-import workExperienceData from "../../data/workExperience";
-import educationData from "../../data/education";
 
+const REACT_APP_BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
 export default class ProfileInfo extends React.Component {
 
-    skills = skillsData;
-    workExperience = workExperienceData;
-    // education 'type' property can be 'college' or 'course' ('course' by default)
-    education = educationData;
+    constructor(props){
+        super(props);
+        this.state = {
+            skills: [],
+            workExperience: [],
+            // education 'type' property can be 'college' or 'course' ('course' by default)
+            education: []
+        };
+        
+    }
+
+    componentDidMount(){
+         fetch(`${REACT_APP_BACKEND_URL}/skills`)
+            .then(res => res.json())
+            // .then(res => console.log(res))
+           .then(res => this.setState({ skills: res }));
+
+        fetch(`${REACT_APP_BACKEND_URL}/work-experience`)
+            .then(res => res.json())
+            // .then(res => console.log(res))
+            .then(res => this.setState({ workExperience: res }));
+
+        fetch(`${REACT_APP_BACKEND_URL}/education`)
+            .then(res => res.json())
+            // .then(res => console.log(res))
+            .then(res => this.setState({ education: res }));
+    }
+
+    
 
     render() {
         return (
             <React.Fragment>
                 <Person imgSrc={'misc/userpic.png'}
                         name={'Ilya Soloveychik'}
-                        speciality={'FullStack (Backend-oriented) Developer'}
-                        skills={this.skills} />
-                <WorkExperience data={this.workExperience} />
-                <Education data={this.education} />
+                        speciality={'Technician & FullStack (Backend-oriented) Developer'}
+                        skills={this.state.skills} />
+                <WorkExperience data={this.state.workExperience} />
+                <Education data={this.state.education} />
             </React.Fragment>
         )
     }

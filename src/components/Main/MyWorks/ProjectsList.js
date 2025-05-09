@@ -6,7 +6,7 @@ export default class ProjectsList extends React.Component {
         return (
             <ul className="projects-list">
                 {
-                    this.props.data.map((item, index) =>
+                    this.props.data.length > 0 ? this.props.data.map((item, index) =>
                         <li key={index} className="projects-item">
                             <div className="hover-img">
                                 <img className="project-img" src={item.previewPicUrl} alt={item.siteDomain}/>
@@ -19,7 +19,7 @@ export default class ProjectsList extends React.Component {
                                 {item.description}
                             </div>
                         </li>
-                    )
+                    ) : <h2 style={{marginLeft: '30px'}}>No information about projects...</h2>
                 }
             </ul>
         )

@@ -7,6 +7,8 @@ export default class Education extends React.Component{
     };
 
     render() {
+        if (this.props.data.length === 0) return (<h1 style={{ marginLeft: "30px" }}>No education information</h1>)
+
         const dataSortedByDesc = this.props.data.reverse();
         return (
             <section className="aboutbox">
