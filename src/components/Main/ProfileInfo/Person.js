@@ -28,7 +28,7 @@ export default class Person extends React.Component {
                                 <div className="worksheet-what">Key skills:</div>
                                 <div className="worksheet-info skills">
                                     <ul className="skills-list">
-                                        {this.props.skills.map((skill, index) =>
+                                        {this.props.skills.skills.map((skill, index) =>
                                             <li key={index} className="skill-item">{skill}</li>
                                         )}
                                     </ul>
