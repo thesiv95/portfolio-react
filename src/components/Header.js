@@ -7,7 +7,7 @@ export default class Header extends React.Component {
             <header className="page-header">
                 <div className="container-big">
                     <Link to="/" className="header-logo-link">
-                        @thesiv95 portfolio website
+                        <b>Ilya's portfolio website</b>
                     </Link>
                 </div>
             </header>
