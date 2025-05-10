@@ -23,7 +23,7 @@ export default class Contacts extends React.Component {
                             <span className="contact-text">{this.props.email}</span>
                         </a>
                     </li>
-                    <li className="contacts-item contacts-item-phone">
+                    {/*<li className="contacts-item contacts-item-phone">
                         <a target={'_blank'} className="contacts-link"
                            href={`${this.props.haveWhatsApp 
                                ? `https://wa.me/${this.props.phone.replace('+', '')}` 
@@ -32,7 +32,7 @@ export default class Contacts extends React.Component {
                                   title={this.props.haveWhatsApp ? 'WhatsApp' : ''}
                             >{this.props.phone}</span>
                         </a>
-                    </li>
+                    </li>*/}
                 </ul>
             </address>
         )
