@@ -28,8 +28,8 @@ export default class Person extends React.Component {
                                 <div className="worksheet-what">Key skills:</div>
                                 <div className="worksheet-info skills">
                                     <ul className="skills-list">
-                                        {this.props.skills.length > 0 ? this.props.skills.map((skill, index) =>
-                                            <li key={index} className="skill-item">{skill}</li>
+                                        {this.props.skills.length > 0 ? this.props.skills.map((skill) =>
+                                            <li key={skill[0]} className="skill-item">{skill[1]}</li>
                                         ) : <h5 style={{marginTop: '2px'}}>No skills information</h5>}
                                     </ul>
                                 </div>
